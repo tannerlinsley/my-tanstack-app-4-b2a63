@@ -12,7 +12,7 @@ export default defineConfig({
     }),
     tailwindcss(),
     tanstackStart(),
-    viteReact(),
     netlify(),
+    viteReact(),
   ],
 })
